@@ -1,8 +1,8 @@
-# Simple Deep learning practices with Pytorch.
+# Simple deep learning practices with Pytorch.
 
 ## CNN
 [Download Dataset](https://drive.google.com/file/d/1W3ktMeU7WTyqH6-bxEDoN52k76C5GtwZ/view?usp=sharing) <br>
-Classify 10 kinds of animals. Training results and misclassified image shown below.<br>
+Classify 10 kinds of animals. Training results and misclassified images are shown below.<br>
 ![Result](https://github.com/Yang0718/Pytorch_examples/raw/master/CNN/result.PNG)
 
 ## RNN
