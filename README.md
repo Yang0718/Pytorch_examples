@@ -3,7 +3,7 @@
 ## CNN
 [Download Dataset](https://drive.google.com/drive/folders/1nUZ344CpivCFiOCs7l4RRGoBGi-2OddB?usp=sharing) <br>
 Classify 10 kinds of animals. Training results and misclassified images are shown below.<br>
-用CNN做10種動物照片的分類。<br>
+用CNN做10種動物照片的分類。<br><br>
 ![Result](https://github.com/Yang0718/Pytorch_examples/raw/master/CNN/result.PNG)
 
 ## RNN
