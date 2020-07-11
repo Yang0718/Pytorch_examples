@@ -3,12 +3,12 @@
 ## CNN
 [Download Dataset](https://drive.google.com/drive/folders/1nUZ344CpivCFiOCs7l4RRGoBGi-2OddB?usp=sharing) <br>
 Classify 10 kinds of animals. Training results and misclassified images are shown below.<br>
-用CNN做10種動物照片的分類。
+用CNN做10種動物照片的分類。<br>
 ![Result](https://github.com/Yang0718/Pytorch_examples/raw/master/CNN/result.PNG)
 
 ## RNN
 [Download Dataset](https://drive.google.com/drive/folders/18I1WDmJpJJ52Wn4uBYogk5zCrOQ4KtHC?usp=sharing)<br>
-Predict whether the submitted ICLR papers will be accepted.
+Predict whether the submitted ICLR papers will be accepted.<br>
 資料集是投稿到期刊的文章之標題，把文字輸入到RNN中預測該篇文章會被期刊接受還是拒絕。
 
 ## VAE
